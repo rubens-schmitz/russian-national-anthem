@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyButton.qml</file>
+        <file>Session.qml</file>
+        <file>MyDrawer.qml</file>
+        <file>Media.qml</file>
+        <file>MySwipeView.qml</file>
+        <file>MyHeader.qml</file>
+        <file>MyPage.qml</file>
+        <file>Content.qml</file>
+        <file>Accessibility.qml</file>
+    </qresource>
+</RCC>

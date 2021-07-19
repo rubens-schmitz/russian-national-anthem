@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=Russian National Anthem
+Exec=russiannationalanthem
+Comment=Russian National Anthem
+Icon=russiannationalanthem
+StartupNotify=false
+Encoding=UTF-8
+Categories=Education
+NoDisplay=false
+Hidden=false
+Name[ru]=Госуда́рственный гимн Росси́йской Федера́ции

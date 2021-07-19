@@ -1,0 +1,4 @@
+bin/russiannationalanthem usr/bin
+russiannationalanthem.desktop usr/share/applications
+src/russiannationalanthem.png usr/share/pixmaps
+sounds usr/share/russiannationalanthem

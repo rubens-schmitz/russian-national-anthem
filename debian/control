@@ -1,0 +1,11 @@
+Source: russiannationalanthem
+Section: education
+Priority: optional
+Maintainer: Rubens Schmitz <rubens.schmitz@mail.ru>
+Build-Depends: debhelper (>= 10), build-essential, devscripts, qtbase5-dev, qtbase5-dev-tools, qt5-qmake, qtdeclarative5-dev
+Standards-Version: 3.9.6
+
+Package: russiannationalanthem
+Architecture: any
+Depends: libqt5quick5, ${misc:Depends}, ${shlibs:Depends}
+Description: The Russian National Anthem
