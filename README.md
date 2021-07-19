@@ -4,6 +4,10 @@
 
 The Russian National Anthem for Astra Linux
 
+# Release
+
+![](https://github.com/rubens-schmitz/russian-national-anthem/blob/master/russiannationalanthem_1.0.0_amd64.deb?raw=true)
+
 # License
 
 GPLv3
